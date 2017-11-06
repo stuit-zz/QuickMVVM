@@ -7,7 +7,7 @@ Welcome to quick reference!
 Prerequisites
 ----------------
 
-- Done without use Storyboards or xib files.
+- Done without use of Storyboards or xib files.
 - Used Objective-C only.
 - Code efficiency, best practices & code readability.
 - UI design not mandatory here.
