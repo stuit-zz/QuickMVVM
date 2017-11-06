@@ -20,6 +20,6 @@ Prerequisites
 Used resources
 -----
 
-[1]: https://api.github.com/users/facebook/repos
-[2]: https://developer.github.com/v3/#pagination
-[3]: https://developer.github.com/v3/repos/#list-organization-repositories
+1: https://api.github.com/users/facebook/repos
+2: https://developer.github.com/v3/#pagination
+3: https://developer.github.com/v3/repos/#list-organization-repositories
