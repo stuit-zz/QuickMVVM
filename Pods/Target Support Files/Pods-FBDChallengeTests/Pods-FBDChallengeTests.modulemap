@@ -1,0 +1,6 @@
+framework module Pods_FBDChallengeTests {
+  umbrella header "Pods-FBDChallengeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
